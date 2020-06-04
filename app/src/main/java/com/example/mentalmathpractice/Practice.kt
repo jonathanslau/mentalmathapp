@@ -31,7 +31,7 @@ class Practice : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_practice)
-        //get variables from main
+        //get variables from main activity
             diff1 = intent.getIntExtra("diff1", 0)
             diff2 = intent.getIntExtra("diff2", 0)
             modeSelected = intent.getStringExtra("modeSelected")
