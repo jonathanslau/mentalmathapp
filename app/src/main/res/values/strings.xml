@@ -1,0 +1,30 @@
+<resources>
+    <!-- setup screen-->
+    <string name="app_name">Mental Math Practice</string>
+    <string name="selectMode">Select Mode</string>
+    <string name="selectDiff">Select Difficulty</string>
+    <string name="start">Start</string>
+
+    <!-- modes-->
+    <string name="plus">Addition</string>
+    <string name="plusminus">Addition &#047; Subtraction</string>
+    <string name="multi">Multiplication</string>
+    <string name="div">Division</string>
+
+    <!-- practice screen-->
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="b0">0</string>
+    <string name="bX">X</string>
+    <string name="bSubmit">Submit</string>
+    <string name="bNext">Next</string>
+
+
+</resources>
